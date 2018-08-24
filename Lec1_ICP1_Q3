@@ -1,0 +1,5 @@
+sent=input("enter sentance")
+numbers=sum(c.isdigit() for c in sent);
+words=sum(c.isalpha() for c in sent);
+print('letters',words)
+print('digits',numbers)
