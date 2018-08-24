@@ -1,0 +1,5 @@
+There are main diffrences:
+Library
+String is stored as ASCII in python2 whereas stored as Unicode in python3
+Expression will be near whole number in python2 whereas it will be as you expected in python3
+Print stamen is diffrent 
